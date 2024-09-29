@@ -1,0 +1,49 @@
+.title0 {
+    font-size: 10vh;
+    position: relative;
+    left: 70vh;
+}
+.title1 {
+    font-size: 4vh;
+    position: relative;
+    left: 30vh;
+    top: 20vh;
+    border: none;
+    padding: 3vh;
+    background-color: black;
+    color: white;
+    border-radius: 2vh;
+}
+.title2 {
+    font-size: 4vh;
+    position: relative;
+    left: 12vh;
+    top: 40vh;
+    border: none;
+    padding: 3vh;
+    background-color: black;
+    color: white;
+    border-radius: 2vh;
+}
+.title4 {
+    font-size: 4vh;
+    position: relative;
+    right: 58vh;
+    top: 60vh;
+    border: none;
+  padding: 3vh;
+  background-color: black;
+  color: white;
+  border-radius: 2vh;
+}
+.title3 {
+    font-size: 4vh;
+   position: relative;
+  right:20vh ;
+  top: 80vh;
+  border: none;
+  padding: 3vh;
+  background-color: black;
+  color: white;
+  border-radius: 2vh;
+    }
